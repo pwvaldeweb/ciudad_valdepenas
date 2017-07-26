@@ -1,0 +1,14 @@
+body{
+    max-width: 100%;
+}
+figure img{
+width: 100%;    
+}
+#plano{
+    position: relative;
+}
+#dionisos{
+    position:absolute;
+    top:590px;
+    left:400px;
+}
